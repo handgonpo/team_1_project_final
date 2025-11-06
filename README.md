@@ -24,11 +24,11 @@ AI 기반 자격증 추천 & 커리어 커뮤니티 플랫폼
 - **핵심 기술 요약**: Django 5, DRF, LangChain, OpenAI GPT-4o-mini, MySQL, 선택적 Redis 캐시, Docker.
 - **팀 구성**:
 
-  | 이름 | 역할 | 담당 |
-  | --- | --- | --- |
-  | 한세일 | PM & Frontend & Backend | 프로젝트 기획, DB 설계(ERD), API 설계, 비즈니스 로직 구현, 성능 개선(Redis), 프론트엔드 전담 |
-  | 정규성 | Backend | API 설계, 비즈니스 로직 구현, 모니터링 및 배포 전담, 인증 및 권한 관리 |
-  | 김선우 | Data | 자격증 데이터 수집 및 관리 |
+| 이름&nbsp;&nbsp;&nbsp;&nbsp; | 역할 | 담당 |
+| --- | --- | --- |
+| 한세일 | PM & Frontend & Backend | 프로젝트 기획, DB 설계(ERD), API 설계, 비즈니스 로직 구현, 성능 개선(Redis), 프론트엔드 전담 |
+| 정규성 | Backend | API 설계, 비즈니스 로직 구현, 모니터링 및 배포 전담, 인증 및 권한 관리 |
+| 김선우 | Data | 자격증 데이터 수집 및 관리 |
 
 ## 주요 기능
 - **AI 자격증 추천**: LangChain + OpenAI로 추출한 키워드를 기반으로 자격증 모델을 매칭하여 추천합니다.
